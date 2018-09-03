@@ -575,3 +575,91 @@
   background: #F7F7D0;
   color: #000000;
 }
+
+/*
+ * Theme - red
+ */
+
+#rikaichamp-window.-red, #rikaichamp-window.-red * {
+  color: black;
+}
+
+#rikaichamp-window.-red {
+  color: #111;
+  background: #FF0000;
+}
+
+#rikaichamp-window.-red .w-kanji {
+  color: #7070E0;
+}
+
+#rikaichamp-window.-red .w-kana {
+  color: #20A020;
+}
+
+#rikaichamp-window.-red .w-conj {
+  color: #A0A0A0;
+}
+
+#rikaichamp-window.-red .w-title {
+  background: #F0F0B0;
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-kanji {
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-yomi {
+  color: #20A020;
+}
+
+#rikaichamp-window.-red .k-yomi-hi {
+  color: #CD5C5C;
+}
+
+#rikaichamp-window.-red .k-yomi-ti {
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-abox-r {
+  background: #FFFFE6;
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-abox-g {
+  background: #F7F7D0;
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-abox-f {
+  background: #F7F7D0;
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-abox-s {
+  background: #5A70B5;
+  color: #FFFFFF;
+}
+
+#rikaichamp-window.-red .k-bbox-0a,
+#rikaichamp-window.-red .k-bbox-0b {
+  background: #FFFFE6;
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-bbox-1a,
+#rikaichamp-window.-red .k-bbox-1b {
+  background: #F7F7D0;
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-mix-td0 {
+  background: #FFFFE6;
+  color: #000000;
+}
+
+#rikaichamp-window.-red .k-mix-td1 {
+  background: #F7F7D0;
+  color: #000000;
+}

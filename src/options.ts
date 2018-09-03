@@ -85,7 +85,7 @@ function renderPopupStyleSelect() {
   while (popupStyleSelect.firstChild) {
     (popupStyleSelect.firstChild as any).remove();
   }
-  const themes = ['blue', 'lightblue', 'black', 'yellow'];
+  const themes = ['blue', 'lightblue', 'black', 'yellow', 'red'];
 
   for (const theme of themes) {
     const input = document.createElement('input');
